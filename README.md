@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Adsoooon
 - 👀 I’m interested in Fullstack Carreer
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on love
 - 📫 How to reach me: adson777@outlook.com
 - 😄 Pronouns: he
